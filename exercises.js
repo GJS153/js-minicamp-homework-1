@@ -1,6 +1,7 @@
 //Do not change any of the function names
 
 function multiplyByTen(num) {
+	var a;
   //return num after multiplying it by ten
   //code here
 }
